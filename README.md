@@ -1,5 +1,5 @@
 # aPlayer
-A very basic Music Player
+A very basic Music Player (and rather incomplete)
 
 Songs used for this project:
 
@@ -8,3 +8,5 @@ Songs used for this project:
 - Andrew Codeman - Tired traveler on the way home
 
 Free stock music
+
+Based on other solutions
